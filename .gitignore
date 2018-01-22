@@ -1,0 +1,5 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+frontend/node_modules/
+backend/venv/
+backend/_main/__pycache__
+backend/_main/__init__.py
